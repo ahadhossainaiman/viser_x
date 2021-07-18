@@ -1,0 +1,21 @@
+.indexedStep {
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 60px;
+    background-color: rgba(211, 211, 211, 0.8);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .indexedStep.accomplished {
+    background-color: rgba(0, 116, 217, 1);
+  }
+  .bar{
+      width:50%;
+      margin-left:25%;
+      margin-top:5%;
+
+  }
